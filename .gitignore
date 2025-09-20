@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+.venv/
+
+.idea/
+
+# pytest cache
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
